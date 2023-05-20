@@ -10,7 +10,7 @@ body, .menuM{
     
 }
 
-.seccion-uno, .seccion-dos, .seccion-tres{
+.seccion-uno, .seccion-dos{
     width: 100%;
     min-height: 90vh;
     padding: 0 5%;
@@ -43,4 +43,11 @@ body, .menuM{
 
 .footer a img{
     filter: invert(39%) sepia(80%) saturate(5380%) hue-rotate(209deg) brightness(100%) contrast(99%);
+}
+
+.seccion-tres{
+    width: 100%;
+    min-height: 90vh;
+    padding: 0 5%;
+
 }
